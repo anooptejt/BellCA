@@ -24,7 +24,7 @@ autopilot:
   image:
     registry: opsmxdev
     repository: ubi8-autopilot
-    tag: v2.9.12-202008190559
+    tag: v2.9.13-202008280957
     pullPolicy: IfNotPresent
 
   # Type of service overwhich autopilot shall be exposed
